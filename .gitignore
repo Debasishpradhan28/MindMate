@@ -1,0 +1,7 @@
+# Ignore the secrets folder
+.streamlit/
+.streamlit/secrets.toml
+
+# Ignore python cache files
+__pycache__/
+*.pyc
